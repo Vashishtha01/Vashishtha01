@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hey, I'm Vasu Sharma
 
-<!--
-**Vashishtha01/Vashishtha01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛡️ Cybersecurity Learner | 💻 Python & Linux Explorer | 📂 Building my Portfolio | 🎯 Open to Internships
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🔭 I’m currently learning ethical hacking, Linux, and scripting
+- 🧠 Exploring TryHackMe, Python OOP, and bash scripting
+- ⚒️ Passionate about automation, tools, and breaking things (the ethical way)
+- 🎮 Also a gamer — strategy and reflexes help in hacking too!
+
+---
+
+## 🔧 Tech Stack
+- 💻 Languages: Python, Bash (beginner), HTML/CSS (basic)
+- 🛠️ Tools: Kali Linux, Wireshark, VS Code, Git & GitHub
+- 🌐 Platforms: TryHackMe, CodeChef
+
+---
+
+## 📂 Featured Projects
+
+- still working on it
+---
+
+## 🤝 Let’s Connect
+- 💼  [Linkedin]   (https://www.linkedin.com/in/vashishtha-deo-sharma-a147ab263/)
+- 🌍 Portfolio (coming soon)
+
+---
