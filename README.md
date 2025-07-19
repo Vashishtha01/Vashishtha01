@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Vasu Sharma
+# 👋 Hey, I'm Vashishtha Deo Sharma
 
 🛡️ Cybersecurity Learner | 💻 Python & Linux Explorer | 📂 Building my Portfolio | 🎯 Open to Internships
 
